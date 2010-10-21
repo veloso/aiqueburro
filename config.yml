@@ -1,0 +1,69 @@
+encoding: utf8
+
+user: aiqueburro
+passwd: terryer
+
+frase:
+ 1: Assim não, bebê! Vou ensinar uma vez só...
+ 2: Desse jeito não, criança! Presta bem atenção, tá?
+ 3: Não, não... Não acredito! Anota, por favor.
+ 4: Ai que burro! Dá zero pra ele!
+ 5: Não sabe, não sabe, vai ter que aprender! Orelha de burro, cabeça de ET!
+ 6: Por acaso você fugiu da escola?! É só dessa vez, hein!
+ 7: Se você é jovem ainda, jovem ainda, jovem ainda!... Ainda dá tempo de ir à escola, né?
+
+termoerrado:
+ 1: excessão
+ 2: nada haver
+ 3: concerteza
+ 4: sombrancelha
+ 5: geito
+ 6: pra mim fazer
+ 7: mecher
+ 8: homen
+ 9: gostoza
+ 10: gostozo
+ 11: atrazado
+ 12: discursão
+ 13: derrepente
+ 14: almenta
+ 15: almentar
+ 16: quizer
+ 17: acessoria
+ 18: fujir
+ 19: saldade
+ 20: maudade
+ 21: faser
+ 22: anciosa
+ 23: ancioso
+ 24: anciedade
+ 25: atrazada
+ 26: denovo
+
+termocerto:
+ 1: exceção
+ 2: nada a ver
+ 3: com certeza
+ 4: sobrancelha
+ 5: jeito
+ 6: pra eu fazer
+ 7: mexer
+ 8: homem
+ 9: gostosa
+ 10: gostoso
+ 11: atrasado
+ 12: discussão
+ 13: de repente
+ 14: aumenta
+ 15: aumentar
+ 16: quiser
+ 17: assessoria
+ 18: fugir
+ 19: saudade
+ 20: maldade
+ 21: fazer
+ 22: ansiosa
+ 23: ansioso
+ 24: ansiedade
+ 25: atrasada
+ 26: de novo
